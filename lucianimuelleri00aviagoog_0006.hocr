@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lucianimuelleri00aviagoog_0006.png"; bbox 0 0 931 1388; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 668 51 820 180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 668 51 820 180">
+     <span class='ocr_line' id='line_1_1' title="bbox 668 51 820 180; baseline 0 1208"><span class='ocrx_word' id='word_1_1' title='bbox 668 51 820 180; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 204 250 651 294">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 204 250 651 294">
+     <span class='ocr_line' id='line_1_2' title="bbox 204 250 651 294; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 204 250 391 292; x_wconf 82' lang='lat' dir='ltr'>LVCIANI</span> <span class='ocrx_word' id='word_1_3' title='bbox 426 250 651 294; x_wconf 81' lang='lat' dir='ltr'><strong>MVELLERI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 142 388 714 422">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 142 388 714 422">
+     <span class='ocr_line' id='line_1_3' title="bbox 142 388 714 422; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 142 395 185 422; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 206 395 359 422; x_wconf 79' lang='lat' dir='ltr'><strong>PHAEDRI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 378 394 420 422; x_wconf 76' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 437 388 553 422; x_wconf 72' lang='lat' dir='ltr'><strong>AviANI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 573 395 714 422; x_wconf 82' lang='lat' dir='ltr'><strong>FABVLIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 354 520 506 538">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 354 520 506 538">
+     <span class='ocr_line' id='line_1_4' title="bbox 354 520 506 538; baseline -0.007 0"><span class='ocrx_word' id='word_1_9' title='bbox 354 520 506 538; x_wconf 84' lang='lat' dir='ltr'>LIBELLVS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 274 1036 580 1090">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 274 1036 580 1090">
+     <span class='ocr_line' id='line_1_5' title="bbox 368 1036 491 1055; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 368 1036 491 1055; x_wconf 78' lang='lat' dir='ltr'><strong>LIPSIAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 274 1075 580 1090; baseline 0.003 -2"><span class='ocrx_word' id='word_1_11' title='bbox 274 1075 295 1089; x_wconf 75' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 308 1075 398 1089; x_wconf 74' lang='lat' dir='ltr'><strong>AEvas</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 413 1076 428 1090; x_wconf 80' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 440 1076 456 1089; x_wconf 39' lang='lat' dir='ltr'><strong>G&gt;</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 469 1076 480 1089; x_wconf 72' lang='lat' dir='ltr'><strong>&#39;r</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 483 1076 580 1090; x_wconf 70' lang='grc' dir='ltr'><strong>ΕΕΕΕΕΕΕΕ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
